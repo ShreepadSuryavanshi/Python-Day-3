@@ -1,6 +1,6 @@
 # program for finding average of list
 
-l = [1,2,3,4,5,6,7]
+l = [1,2,3,4,5,6,7,8]
 avg=0
 sum=0
 for i in  l:
