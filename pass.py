@@ -6,4 +6,4 @@ while not_found:
     if passw == correct_pass:
         not_found = False
 
-print("Password matched")  
+print("Passw matched")  
